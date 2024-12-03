@@ -36,12 +36,26 @@
 
    ## Compétences techniques 
   -Excel, PowerPoint, Word : Niveau avancé
-  -SolidWorks : Niveau basique Commandes Linux : Connaissances basiques 
+
+  
+  -SolidWorks : Niveau basique Commandes Linux : Connaissances basiques
+
+  
   -Utilisation des commandes dans un Terminal
+
+  
   -Création d’un site web : Niveau débutant (HTML, CSS)
-  -Compréhension des fondamentaux de l'algorithme. 
-  -Introduction au GRAFCET pour la gestion des automates 
-  -Connaissance des capteurs et actionneurs dans les systèmes automatisés 
+
+  
+  -Compréhension des fondamentaux de l'algorithme.
+
+  
+  -Introduction au GRAFCET pour la gestion des automates
+
+  
+  -Connaissance des capteurs et actionneurs dans les systèmes automatisés
+
+  
   -Participation à la réalisation d'un pupitre de commande pour  une pompe de rétention d'eau
   ## Compétences en langues
   -Espagnol Avancé (B2)
