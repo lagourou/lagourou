@@ -53,14 +53,20 @@
   -Concevoir et développer une application sécurisée organisée en couches
   -Préparer le déploiement d’une application sécurisée Compétences
   -Compétences prévues: JavaScript(React), PHP Symfony, Logiciels CRM, HTML CSS, Android et iOS
+
+
   **Intitulé** : CPGE ATS (Classe prépas Adaptation technicien supérieur)  (#)
   **Période** : 01/2018 - 12/2019 (#)
   -Sciences industrielles de l’ingénieur, électronique, informatique, mécanique et mathématiques.
+
+
   **Intitulé** : BTS ATI (Assistant technique d'ingénieur)  (#)
   **Période** : 02/2016 - 12/2017 (#)
   -Bureautique, organisation industrielle, sciences physiques, automatisme
    informatique industrielle
-  **Intitulé** : BAC S-SI (Scientifiques-Sciences de l'ingénieur)  (#)
+
+
+   **Intitulé** : BAC S-SI (Scientifiques-Sciences de l'ingénieur)  (#)
   **Période** : 02/2016 - 12/2017 (#)
 
   ## Centres d'intéret 
