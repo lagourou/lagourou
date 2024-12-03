@@ -45,6 +45,8 @@
   -Participation à la réalisation d'un pupitre de commande pour  une pompe de rétention d'eau
   ## Compétences en langues
   -Espagnol Avancé (B2)
+
+  
   -Anglais Intermédiaire (B1)
 
   ## Formation
