@@ -70,10 +70,10 @@
   **Période** : 02/2016 - 12/2017 (#)
 
   ## Centres d'intéret 
-  -Passion pour le cinéma
-  -Le Dessin
-  -Culture de la terre 
-  -Ancien membre d’association familiale "Cap étude"
+  -**Passion pour le cinéma**
+  -**Le Dessin**
+  -**Culture de la terre**
+  -**Ancien membre d’association familiale "Cap étude"**
   
   
     
