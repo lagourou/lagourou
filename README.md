@@ -10,27 +10,45 @@
   ### PRONY RESOURCES (#)
   **Poste** : Opérateur de procédé (#)
   **Période** : 02/2022 - 08/2023 (#)
+
+  
   -Maintenir la production conformément aux directives du pilote d’installation
    et/ou du superviseur
+
+  
   -Réaliser la mise hors service et la sécurisation des équipements avant
    maintenance
+
+  
   -Contrôler le processus d’extraction du nickel (lecture de PID, dessin de
    schéma)
   ### Calédonienne Des Eaux  (#)
   **Poste** : Technicien stagiaire (#)
   **Période** : 10/2016 - 12/2016 (#)
+
+  
   -Réalisation de relevés de turbidité et de pH pour garantir la conformité des
   normes de qualité de l'eau.
+
+  
   -Entretien et nettoyage réguliers des installation
    performance optimale.
+
+  
   -Référencement systématique de chaque équipement électromécanique
+
+  
   -Rédaction de fiches de travail détaillées pour la maintenance préventive,
    facilitant le suivi et la planification des interventions.
   ### ENGIE: EEC  (#)
   **Poste** : Assistant technicien (Travail étudiant) (#)
   **Période** : 11/2015 - 12/2015 (#)
+
+  
   -Assister l'équipe pour intervenir sur des équipements tels que les
    disjoncteurs, les réseaux électriques et les compteurs
+
+  
   -Réaliser des opérations de maintenance préventive afin d'assurer un
    fonctionnement optimal des systèmes
 
@@ -66,18 +84,28 @@
   ## Formation
   **Intitulé** : Formation CDA (Concepteur développeur d’application) (#)
   **Période** : 10/2024 - 12/2025 (#)
+
+  
   -Concevoir et développer une application sécurisée organisée en couches
+
+  
   -Préparer le déploiement d’une application sécurisée Compétences
+
+  
   -Compétences prévues: JavaScript(React), PHP Symfony, Logiciels CRM, HTML CSS, Android et iOS
 
 
   **Intitulé** : CPGE ATS (Classe prépas Adaptation technicien supérieur)  (#)
   **Période** : 01/2018 - 12/2019 (#)
+
+  
   -Sciences industrielles de l’ingénieur, électronique, informatique, mécanique et mathématiques.
 
 
   **Intitulé** : BTS ATI (Assistant technique d'ingénieur)  (#)
   **Période** : 02/2016 - 12/2017 (#)
+
+  
   -Bureautique, organisation industrielle, sciences physiques, automatisme
    informatique industrielle
 
